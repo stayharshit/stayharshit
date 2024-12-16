@@ -2,6 +2,11 @@
 
 ###
 
+<a href="https://stayharshit.github.io/" target='_blank' ><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<a href='https://www.linkedin.com/in/harshit-srivastava-242016/' target='_blank'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href='https://x.com/Harshit242016' target='_blank'><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+
+
 <p align="left">
 I am a passionate self-taught Full Stack Developer 🌐, App Developer 📱, and an aspiring Designer 🎨. I enjoy diving into new technologies 💻 and using them to craft exciting and innovative projects 🛠️.
 
